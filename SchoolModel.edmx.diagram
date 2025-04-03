@@ -7,7 +7,7 @@
       <Diagram DiagramId="7cb753b39dbf4d1684b3520caf9c3b9b" Name="Diagram1" ZoomLevel="74">
         <EntityTypeShape EntityType="SchoolDBModel.Course" Width="1.5" PointX="3" PointY="0.875" IsExpanded="true" />
         <EntityTypeShape EntityType="SchoolDBModel.Department" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
-        <EntityTypeShape EntityType="SchoolDBModel.Enrollment" Width="1.5" PointX="6.5" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="SchoolDBModel.Enrollment" Width="1.5" PointX="6.375" PointY="0.75" IsExpanded="true" />
         <EntityTypeShape EntityType="SchoolDBModel.Instructor" Width="1.5" PointX="5.75" PointY="4.75" IsExpanded="true" />
         <EntityTypeShape EntityType="SchoolDBModel.Student" Width="1.5" PointX="3" PointY="5" IsExpanded="true" />
         <AssociationConnector Association="SchoolDBModel.FK__Courses__Departm__3B75D760" ManuallyRouted="false" />
